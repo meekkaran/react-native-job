@@ -1,11 +1,12 @@
 {
   "expo": {
-    "scheme": "acme",
+    "scheme": "aora",
     "web": {
       "bundler": "metro"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "name": "react_native_jobs",
     "slug": "react_native_jobs"
